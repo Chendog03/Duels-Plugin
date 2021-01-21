@@ -1,0 +1,19 @@
+main: me.DuelsPlugin.Main
+name: Duels-Plugin
+version: 1.0
+author: Chendog
+
+
+commands:
+  duel:
+  duelAccept:
+  duelDeny:
+  showQueue:
+  showPool:
+  setPos1:
+  setPos2:
+  startDuel:
+  endDuel:
+  showDuel:
+  setHubSpawn:
+  showStats:

@@ -1,0 +1,28 @@
+p1Start:
+  world: Duel World
+  x: 0.6131999788712954
+  y: 51.5
+  z: -7.567318993077776
+  yaw: 0.892334
+  pitch: 2.1166914
+spawn:
+  world: Hub World
+  x: -0.6610751924121083
+  y: 201.0
+  z: -0.5198324147388048
+  yaw: 270.34515
+  pitch: -2.1443238
+p2Start:
+  world: Duel World
+  x: 0.5126820309723392
+  y: 51.5
+  z: 8.949600038540513
+  yaw: 180.38733
+  pitch: -6.937951
+error-already-queued: §cYou are already queued.
+error-player-not-online: §cPlayer §l%player% §r§cis not online/does not exist.
+error-permissions: §cYou do not have the permission §l%perm% §r§cto run that command.
+error-no-request-from: §cNo duel request from §l%target%§r§c.
+error-no-requests: §cYou have no duel requests from other players.
+info-display-list: '§b§n%list% as follows: '
+info-removed-recent-request: §bRemoved most recent duel request from %target%§r§c.
